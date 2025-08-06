@@ -36,16 +36,17 @@ This project uses a custom singly linked list (not C#'s built-in collections). E
    dotnet build
    dotnet run
 
-Usage
+## Usage
+
 Follow the console menu.
 
-Enter gadget names and carried days as prompted.
+Enter gadget names and carried days as prompted.  
+To specify days, use a comma-separated list (e.g. `Monday, Tuesday, Friday`)  
+Type `Everyday` to mark a gadget as carried every day.
 
-To specify days, use a comma-separated list (e.g. Monday, Tuesday, Friday)
+### Example
 
-Type Everyday to mark a gadget as carried every day.
-
-Example
+```plaintext
 EDC Gadget Manager
 1. Add Gadget
 2. Remove Gadget
@@ -59,27 +60,30 @@ EDC Gadget Manager
 0. Exit
 Select an option: 1
 
+
+
 Enter gadget name: Laptop
+
 Enter days gadget is carried (comma-separated, e.g., Monday,Tuesday) or 'Everyday': Monday,Tuesday,Wednesday,Thursday,Friday
 Gadget added.
 
-File Structure
-Gadget.cs — Model for each gadget, including days carried
+```
 
-Node.cs — Linked list node structure
+## File Structure
 
-GadgetLinkedList.cs — Custom singly linked list with all operations
+- `Gadget.cs` — Model for each gadget, including days carried  
+- `Node.cs` — Linked list node structure  
+- `GadgetLinkedList.cs` — Custom singly linked list with all operations  
+- `Program.cs` — Main menu, input/output, and app logic  
 
-Program.cs — Main menu, input/output, and app logic
+## Educational Purpose
 
-Educational Purpose
 This project is designed to demonstrate:
 
-Manual implementation of linked lists
+- Manual implementation of linked lists  
+- Class design, generics, and C# best practices  
+- Applying data structures to a practical use case  
 
-Class design, generics, and C# best practices
+## License
 
-Applying data structures to a practical use case
-
-License
-This project is for educational purposes and is not licensed for commercial use.
+This project is for educational purposes and is not licensed for commercial use.  
