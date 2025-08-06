@@ -1,0 +1,15 @@
+C:\Users\deang\OneDrive\Documents\GitHub\EDC\EDCGadgetManager\bin\Debug\net9.0\EDCGadgetManager.exe
+C:\Users\deang\OneDrive\Documents\GitHub\EDC\EDCGadgetManager\bin\Debug\net9.0\EDCGadgetManager.deps.json
+C:\Users\deang\OneDrive\Documents\GitHub\EDC\EDCGadgetManager\bin\Debug\net9.0\EDCGadgetManager.runtimeconfig.json
+C:\Users\deang\OneDrive\Documents\GitHub\EDC\EDCGadgetManager\bin\Debug\net9.0\EDCGadgetManager.dll
+C:\Users\deang\OneDrive\Documents\GitHub\EDC\EDCGadgetManager\bin\Debug\net9.0\EDCGadgetManager.pdb
+C:\Users\deang\OneDrive\Documents\GitHub\EDC\EDCGadgetManager\obj\Debug\net9.0\EDCGadgetManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deang\OneDrive\Documents\GitHub\EDC\EDCGadgetManager\obj\Debug\net9.0\EDCGadgetManager.AssemblyInfoInputs.cache
+C:\Users\deang\OneDrive\Documents\GitHub\EDC\EDCGadgetManager\obj\Debug\net9.0\EDCGadgetManager.AssemblyInfo.cs
+C:\Users\deang\OneDrive\Documents\GitHub\EDC\EDCGadgetManager\obj\Debug\net9.0\EDCGadgetManager.csproj.CoreCompileInputs.cache
+C:\Users\deang\OneDrive\Documents\GitHub\EDC\EDCGadgetManager\obj\Debug\net9.0\EDCGadgetManager.sourcelink.json
+C:\Users\deang\OneDrive\Documents\GitHub\EDC\EDCGadgetManager\obj\Debug\net9.0\EDCGadgetManager.dll
+C:\Users\deang\OneDrive\Documents\GitHub\EDC\EDCGadgetManager\obj\Debug\net9.0\refint\EDCGadgetManager.dll
+C:\Users\deang\OneDrive\Documents\GitHub\EDC\EDCGadgetManager\obj\Debug\net9.0\EDCGadgetManager.pdb
+C:\Users\deang\OneDrive\Documents\GitHub\EDC\EDCGadgetManager\obj\Debug\net9.0\EDCGadgetManager.genruntimeconfig.cache
+C:\Users\deang\OneDrive\Documents\GitHub\EDC\EDCGadgetManager\obj\Debug\net9.0\ref\EDCGadgetManager.dll
